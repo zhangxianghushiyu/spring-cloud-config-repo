@@ -1,7 +1,0 @@
-# config-client-prod.yml
-my:
-  config:
-    message: "Hello from Git PROD config!"
-    info: "This is a production environment."
-server:
-  port: 8082
