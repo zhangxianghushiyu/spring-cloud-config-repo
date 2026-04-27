@@ -1,0 +1,7 @@
+# config-client-dev.yml
+my:
+  config:
+    message: "Hello from Git DEV config!"
+    info: "This is a development environment."
+server:
+  port: 8081 # 为了测试，让客户端也启动在8081，避免冲突
